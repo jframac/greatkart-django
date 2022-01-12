@@ -65,3 +65,8 @@ class Account(AbstractBaseUser):
     
     def has_module_perms(self, add_label):
         return True
+
+    class Meta:
+
+        verbose_name = 'Cuenta'
+        verbose_name_plural = 'Cuentas'

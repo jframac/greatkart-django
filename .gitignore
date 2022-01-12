@@ -151,3 +151,18 @@ dmypy.json
 cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/django
+venv_old/lib64
+venv_old/pyvenv.cfg
+venv_old/bin/activate
+venv_old/bin/activate.csh
+venv_old/bin/activate.fish
+venv_old/bin/Activate.ps1
+venv_old/bin/django-admin
+venv_old/bin/django-admin.py
+venv_old/bin/pip
+venv_old/bin/pip3
+venv_old/bin/pip3.9
+venv_old/bin/python
+venv_old/bin/python3
+venv_old/bin/python3.9
+venv_old/bin/sqlformat
